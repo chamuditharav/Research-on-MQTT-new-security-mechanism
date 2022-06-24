@@ -1,0 +1,25 @@
+
+# Client Configuration
+
+~ MQTT Client
+pip install paho-mqtt
+
+~ RSA module
+pip install rsa
+
+
+# Server Configuration
+
+~ MQTT Client
+pip install paho-mqtt
+
+~ RSA module
+pip install rsa
+
+~ MQTT isntallation (for linux)
+sudo apt-get install mosquitto mosquitto-clients
+
+
+
+
+
